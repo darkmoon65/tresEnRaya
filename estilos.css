@@ -1,0 +1,15 @@
+
+
+#ganadorCaja{
+    width: 200px;
+    height: 200px;
+    display:none;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    background-color: #d3d2d2;
+}
+
+#botonPlay{
+    background-color: #d3d2d2;
+}
